@@ -87,11 +87,12 @@ Copy to Clipboard:
 To download the latest stable release of the project, please visit the [Releases](https://github.com/proxy0x/proxycrypt/releases) section. We recommend downloading the project as a zip file from the releases to ensure you get the official and tested version.
 
 Note:
+
 - The "Code" button provides options for cloning or copying the repository URL, but for the complete project files, I recommend downloading the zip file from the [Releases](https://github.com/proxy0x/proxycrypt/releases) section.
 
 ## Disclaimer
 
-- The current state of the code may require further enhancements and improvements. If you find areas that need refinement or have ideas for new features, we welcome and encourage contributions from the community. Feel free to submit pull requests or open issues to help us make ProxyCrypt even better.
+The current state of the code may require further enhancements and improvements. If you find areas that need refinement or have ideas for new features, we welcome and encourage contributions from the community. Feel free to submit pull requests or open issues to help us make ProxyCrypt even better.
 
 ## Notes
 
