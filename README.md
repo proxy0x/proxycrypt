@@ -84,7 +84,7 @@ Copy to Clipboard:
 
 ## Download
 
-To download the latest stable release of the project, please visit the [Releases](https://github.com/your-username/your-repository/releases) section. We recommend downloading the project as a zip file from the releases to ensure you get the official and tested version.
+To download the latest stable release of the project, please visit the [Releases](https://github.com/proxy0x/proxycrypt/releases) section. We recommend downloading the project as a zip file from the releases to ensure you get the official and tested version.
 
 Note:
 - The "Code" button provides options for cloning or copying the repository URL, but for the complete project files, I recommend downloading the zip file from the [Releases](https://github.com/proxy0x/proxycrypt/releases) section.
