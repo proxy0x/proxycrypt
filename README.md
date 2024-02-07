@@ -48,7 +48,7 @@ python proxycrypt.py
 - Enter a strong and secure password in the "Enter Password" field.
   
 - Use the 👁 button to toggle visibility for reviewing your entered password.
-- 
+ 
 -Choose between "Encrypt File," "Decrypt File," "Encrypt Image," "Decrypt Image," "Encrypt Folder," and "Decrypt Folder."
 
 - Select File, Image, or Folder
