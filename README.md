@@ -35,8 +35,6 @@ Run the application:
 
 python proxycrypt.py
 
-## How to Use:
-
 ## Encryption/Decryption
 
 - Set Encryption/Decryption Password
