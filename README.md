@@ -45,7 +45,7 @@ python proxycrypt.py
   
 - Use the 👁 button to toggle visibility for reviewing your entered password.
  
--Choose between "Encrypt File," "Decrypt File," "Encrypt Image," "Decrypt Image," "Encrypt Folder," and "Decrypt Folder."
+- Choose between "Encrypt File," "Decrypt File," "Encrypt Image," "Decrypt Image," "Encrypt Folder," and "Decrypt Folder."
 
 - Select File, Image, or Folder
 
