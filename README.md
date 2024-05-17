@@ -25,15 +25,15 @@ zxcvbn library (pip install zxcvbn)
 
 Clone the repository:
 
-git clone https://github.com/proxy0x/proxycrypt.git
+```git clone https://github.com/proxy0x/proxycrypt.git```
 
 Navigate to the project directory:
 
-cd proxycrypt
+```cd proxycrypt```
 
 Run the application:
 
-python proxycrypt.py
+```python proxycrypt.py```
 
 ## Encryption/Decryption
 
